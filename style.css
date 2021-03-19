@@ -1,0 +1,51 @@
+h1{
+   color:black ;
+}
+h2{
+     color:blue;
+     font-family: calibri;
+     font-weight:500px
+}
+
+.header{
+     background-color:deeppink;
+     display:flex;
+     justify-content: space-between;
+}
+.grid {
+     border: 5px solid black;
+     border-radius: 5px;
+     display: flex;
+     flex-wrap: wrap;
+}
+.menu{
+     display: flex;
+     justify-content:space-evenly;
+     font-size: 20px;
+     font-family: Calibri ;
+     font-weight: 400;
+}
+.origami{
+     border-radius: 20px;
+     background-color:lightblue;
+     width:310px;
+     font-family:calibri;
+     
+}
+a:link{
+     color:yellow;
+     background-color:transparent;
+     text-decoration: blue;
+}
+a:hover{
+     color:white;
+     background-color: transparent;
+     text-decoration: none;
+}
+a:visited{
+      color:purple;
+      background-color: blanchedalmond;
+      text-decoration: crimson;
+}
+
+
